@@ -22,4 +22,28 @@ timezone: Asia/Shanghai
 
 ### 
 
+# Rumbia的笔记
+
+**起飞**
+_世界_
+*23* 
+123
+> 这是引用
+> > 耳机
+> > 平板
+
+*列表项
+*列表项
+    *列表项
+        *列表项
+1.列表项
+1.列表项
+1.列表项
+
+
+```solidity
+class{
+string name 
+}
+```
 <!-- Content_END -->
